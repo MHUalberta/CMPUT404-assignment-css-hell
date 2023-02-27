@@ -22,3 +22,13 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Applied CSS for Part I
+=================
+- Added an old paper background (source: https://unsplash.com/photos/y_2GC4EhOP4)
+- Changed anchor font to a more fun font, cursive!
+- Applied the font family Courier New, Courier, and monospace to paragraphs.
+- Applied the font family Franklin Gothic Medium, Arial Narrow, Arial, sans-serif to h1s.
+- Applied the font family Verdana, Geneva, Tahoma, sans-serif to h2s.
+- Applied the font family Lucida Sans, Lucida Sans Regular, Lucida Grande, Lucida Sans Unicode, Geneva, Verdana, sans-serif to h3s.
+- Rounded up the corners of all images and applied the cursive font to alternate text.
+- For the color theme, I choose a brown theme where paragraphs are brown, h3 headers are a darker brown, and h2 headers are an even darker brown. I choose to keep h1 headers black, and also kept anchors the same color to make sure they are easily identifiable as anchors.

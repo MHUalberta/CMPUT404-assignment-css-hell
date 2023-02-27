@@ -1,0 +1,31 @@
+html {
+    background-image: url('images/bg.jpg');
+  }
+
+a {
+    font-family: cursive;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(114, 25, 25);
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(66, 35, 43);
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(66, 35, 43);
+}
+
+img {
+    border-radius: 30px;
+    font-family: cursive;
+}

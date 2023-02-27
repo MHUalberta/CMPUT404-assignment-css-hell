@@ -3,26 +3,24 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url('mypageimages/bg.jpg');
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #ffffff;
+    background-color: blue;
+    font-family: cursive;
+    color: red;
     font-size: 1.3vw;
 }
 
 .content {
-    gap: 4%;
+    gap: 1%;
 }
 
 div {
     display: flex;
     width: 100%;
     height: 30vh;
-    margin-top: 25px;
 }
 
 div img {
     height: 100%;
-    border-radius: 15vh;
     margin: 0 15px 0 15px;
 }
 
@@ -33,9 +31,8 @@ div img {
 .hero {
     justify-content: center;
     align-items: center;
-    border-style: solid;
-    border-width: 0 0 5px 0;
-    border-color: rgb(125, 160, 151);
+    border-width: 15px 0;
+    border-color: rgb(0, 255, 21);
     border-radius: 15px;
 }
 
@@ -43,7 +40,7 @@ div img {
     width: 40%;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     font-size: 1.5vw;
 }
 
@@ -55,12 +52,14 @@ div img {
     padding-left: 20px;
 }
 
+
 .sidebar {
-    width: 33%;
+    width: 50%;
     flex-direction: column;
-    margin-right: 1.5%;
 }
 
-.sidebar li {
-    margin-bottom: 5%;
+
+h2, h1 {
+    color: rgb(11, 65, 11);
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
 }
